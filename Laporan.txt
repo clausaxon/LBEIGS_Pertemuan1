@@ -1,0 +1,6 @@
+Sabtu - 3 Maret - 2017
+Belajar menggunakan Unity(basic).
+Menggerakan sprite dan memberi karakterisitik pada sprite.
+Menggunakan C# untuk memberi perintah secara manual dalam unity.
+Menggunakan Git Hub.
+Udah itu aja mas :). 
